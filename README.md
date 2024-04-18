@@ -1,4 +1,4 @@
-##### Diagnosis of brain tumor size
+## Diagnosis of brain tumor size
 
 
 This code is for building a Convolutional Neural Network (CNN) model for medical image classification. It loads images from a directory structure where each patient's data is organized into subdirectories based on different tumor sizes. The images are preprocessed, normalized, and then used to train the CNN model.
