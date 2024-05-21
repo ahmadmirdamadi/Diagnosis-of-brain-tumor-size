@@ -8,3 +8,6 @@ The CNN model architecture consists of convolutional layers followed by max-pool
 After training, the code generates a confusion matrix to visualize the model's performance on the test data. Additionally, it allows for making predictions on new images by loading, preprocessing, and passing them through the trained model. The predicted class index is then mapped to a corresponding folder structure.
 
 this code performs image classification on medical images to identify different tumor sizes, leveraging CNNs and supervised learning techniques
+
+
+Data: https://drive.google.com/file/d/1ppuj3qcbj89jiLcTpiNoJHPr4BbU0mT8/view?usp=sharing
